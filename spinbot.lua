@@ -1,4 +1,4 @@
-ts doesnt have a interface, soo you can control que velocity on the own script
+ts doesnt have a interface, soo you can control the velocity on the own script
 
 
 local Players = game:GetService("Players")
