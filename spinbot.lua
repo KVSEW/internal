@@ -1,3 +1,6 @@
+ts doesnt have a interface, soo you can control que velocity on the own script
+
+
 local Players = game:GetService("Players")
 
 local LocalPlayer = Players.LocalPlayer
